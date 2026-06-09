@@ -1,0 +1,2 @@
+# Autoriser DNS
+ALLOW UDP 53 FROM ANY
