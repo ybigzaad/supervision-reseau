@@ -1,0 +1,12 @@
+name: Test Workflows
+
+on: 
+  push:
+
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Afficher un message
+        run: echo "Validation du projet supervision-reseau"
