@@ -1,0 +1,8 @@
+admin
+password
+azerty
+1234
+secret
+GrtaInfo2025
+admin@ais123
+
